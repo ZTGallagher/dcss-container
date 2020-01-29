@@ -1,5 +1,5 @@
 FROM python:2
-MAINTAINER ztgallagher@gmail.com
+LABEL ztgallagher@gmail.com
 
 ENV HOME /root
 ENV LC_ALL C.UTF-8
