@@ -1,5 +1,5 @@
 FROM python:2
-LABEL ztgallagher@gmail.com
+LABEL maintainer="Zachary Gallagher"
 
 ENV HOME /root
 ENV LC_ALL C.UTF-8
