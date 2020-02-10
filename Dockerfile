@@ -8,7 +8,7 @@ RUN apt-get update && \
     apt-get -y install build-essential \
                        libncursesw5-dev \
                        bison \
-                       flex \
+                       flex \       
                        liblua5.1-0-dev \
                        libsqlite3-dev \
                        libz-dev \
